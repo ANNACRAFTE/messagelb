@@ -1,12 +1,12 @@
 module.exports = {
   //bot token
-  token: "xxxxxxxxxxxxxxxx",
+  token: "OTU1NDE0ODQxMzMyNDc3OTky.YjhVaA.c_AMgqkXoaULjCHtLgmgxUYVJwo",
 
   //bot prefix
   prefix: "!",
 
   //devs String[]
-  devs: [],
+  devs: [941450171265474661],
 
   /* Embeds */
   Embed: {
@@ -26,7 +26,7 @@ module.exports = {
   },
 
   //mongodb url
-  mongoDB: "",
+  mongoDB: "mongodb+srv://Daniel:Daniel1111@danieldb.iusj1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
 
   //repo url
   src: "https://github.com/Sahil1337/MessagesTracker",
