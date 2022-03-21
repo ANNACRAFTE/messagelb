@@ -1,12 +1,12 @@
 module.exports = {
   //bot token
-  token: "OTU1NDE0ODQxMzMyNDc3OTky.YjhVaA.c_AMgqkXoaULjCHtLgmgxUYVJwo",
+  token: "",
 
   //bot prefix
   prefix: "!",
 
   //devs String[]
-  devs: [941450171265474661],
+  devs: [],
 
   /* Embeds */
   Embed: {
@@ -17,17 +17,17 @@ module.exports = {
     Stuck: "",
     Arrow: "",
     Dot: "",
-    footer: "Made by SahiL#1337",
+    footer: "",
   },
 
   /* Leaderboard */
   Leaderboard: {
-    interval: 0, //5 minutes = 300,000 | default is 5 mins
+    interval: 300000, //5 minutes = 300,000 | default is 5 mins
   },
 
   //mongodb url
-  mongoDB: "mongodb+srv://Daniel:Daniel1111@danieldb.iusj1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  mongoDB: "",
 
   //repo url
-  src: "https://github.com/Sahil1337/MessagesTracker",
+  src: "",
 };
